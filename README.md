@@ -22,10 +22,6 @@ Ce projet est une application web conçue pour aider les utilisateurs à gérer 
 - HTML
 - CSS
 - JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
 
 ## Contribution
 
